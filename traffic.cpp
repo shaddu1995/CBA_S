@@ -11,7 +11,7 @@ public:
     char signalColor;
     float speed;
     bool leftIndicator = false;
-    bool rightIndicator = false
+    bool rightIndicator = false;
 
     void trafficSignal()
     {
